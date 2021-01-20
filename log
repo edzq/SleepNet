@@ -1,0 +1,32 @@
+
+
+Tue Mar 31 02:51:02 2020
+Namespace(BID='5_95_th', batchsize=64, continue_train=False, dataset_dir='./datasets/sleep-edfx/', dataset_name='sleep-edfx', epochs=20, lr=0.001, model_name='lstm', network_save_freq=5, no_cuda=True, no_cudnn=True, pretrained=False, sample_num=20, select_sleep_time=True, signal_name='EEG Fpz-Cz', weight_mod='avg_best')
+
+
+Tue Mar 31 03:07:08 2020
+Namespace(BID='5_95_th', batchsize=64, continue_train=False, dataset_dir='./datasets/sleep-edfx/', dataset_name='sleep-edfx', epochs=20, lr=0.001, model_name='lstm', network_save_freq=5, no_cuda=True, no_cudnn=True, pretrained=False, sample_num=20, select_sleep_time=True, signal_name='EEG Fpz-Cz', weight_mod='avg_best')
+
+
+Tue Mar 31 03:20:56 2020
+Namespace(BID='5_95_th', batchsize=64, continue_train=False, dataset_dir='./datasets/sleep-edfx/', dataset_name='sleep-edfx', epochs=20, lr=0.001, model_name='lstm', network_save_freq=5, no_cuda=True, no_cudnn=True, pretrained=False, sample_num=20, select_sleep_time=True, signal_name='EEG Fpz-Cz', weight_mod='avg_best')
+
+
+Tue Mar 31 03:22:48 2020
+Namespace(BID='5_95_th', batchsize=64, continue_train=False, dataset_dir='./datasets/sleep-edfx/', dataset_name='sleep-edfx', epochs=20, lr=0.001, model_name='lstm', network_save_freq=5, no_cuda=True, no_cudnn=True, pretrained=False, sample_num=20, select_sleep_time=True, signal_name='EEG Fpz-Cz', weight_mod='avg_best')
+
+
+Tue Mar 31 03:23:01 2020
+Namespace(BID='5_95_th', batchsize=64, continue_train=False, dataset_dir='./datasets/sleep-edfx/', dataset_name='sleep-edfx', epochs=20, lr=0.001, model_name='lstm', network_save_freq=5, no_cuda=True, no_cudnn=True, pretrained=False, sample_num=20, select_sleep_time=True, signal_name='EEG Fpz-Cz', weight_mod='avg_best')
+
+
+Tue Mar 31 03:27:20 2020
+Namespace(BID='5_95_th', batchsize=64, continue_train=False, dataset_dir='./datasets/sleep-edfx/', dataset_name='sleep-edfx', epochs=20, lr=0.001, model_name='lstm', network_save_freq=5, no_cuda=True, no_cudnn=True, pretrained=False, sample_num=20, select_sleep_time=True, signal_name='EEG Fpz-Cz', weight_mod='avg_best')
+
+
+Tue Mar 31 03:28:29 2020
+Namespace(BID='5_95_th', batchsize=64, continue_train=False, dataset_dir='./datasets/sleep-edfx/', dataset_name='sleep-edfx', epochs=20, lr=0.001, model_name='lstm', network_save_freq=5, no_cuda=True, no_cudnn=True, pretrained=False, sample_num=20, select_sleep_time=True, signal_name='EEG Fpz-Cz', weight_mod='avg_best')
+
+
+Tue Mar 31 03:30:21 2020
+Namespace(BID='5_95_th', batchsize=64, continue_train=False, dataset_dir='datasets/sleep-edfx/', dataset_name='sleep-edfx', epochs=20, lr=0.001, model_name='lstm', network_save_freq=5, no_cuda=True, no_cudnn=True, pretrained=False, sample_num=20, select_sleep_time=True, signal_name='EEG Fpz-Cz', weight_mod='avg_best')
