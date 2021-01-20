@@ -46,7 +46,7 @@ Note:<br>
 
 * multi_scale_resnet_1d network<br>
   
-  ![image](image/multi_scale_resnet_1d_network.png)<br>
+  ![image](image/jiegoutu_page_1.png)<br>
 
 * About cross-validation<br>For better practical application, we will use subject cross-validation. That is, the data in the training and validation sets come from different subjects. It is worth noting that there are two samples for each subject in the sleep-edfx dataset, and we treat both samples as the same subject, which many papers ignore, manually funny. <br>
 
@@ -80,5 +80,10 @@ Special Note: In this classification task, the sample label distribution and imb
 | resnet18_1d                 | 3.85M      | 25.84%    | 89.66%    | 73.32%   | No                      |
 | multi_scale_resnet_1d       | 8.42M      | 25.27%    | 89.89%    | 73.63%   | No                      |
 
+#### Confusion Matrix Visualization
 
-
+ ![image](image/cv-cc2018.png)
+  ![image](image/cv-sleep-edf.png)
+  ![image](image/cv-sleep-edfx.png)
+  ![image](image/ho-cc2018.png)
+  ![image](image/ho-sleep-edfx.png)<br>
